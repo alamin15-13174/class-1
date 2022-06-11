@@ -27,6 +27,6 @@ if  100 > 10:
        if 100 <110:
         print("inner condition is true")   
        elif 100 < 20:
-           print("inner condition is true")
+           print("inner condition is true .al amin bokaxda, niloy reee chodeeee")
 else:
  print("outter condition is False")
